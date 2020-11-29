@@ -1,5 +1,6 @@
 {
   "name": "resume",
+  "homepage": "https://xammed.github.io/msaroshkhan.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +10,8 @@
     "aws-amplify": "^3.0.18-preview.46"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -16,6 +19,7 @@
   },
   "devDependencies": {
     "ajv": "^6.5.4",
+    "gh-pages": "^3.1.0",
     "url-parse": "^1.4.3"
   }
 }
