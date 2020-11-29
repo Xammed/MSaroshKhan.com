@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-gmail"
         }
       ],
-    "aboutme":"I am a Full Stack Developer currently accelerated into graduate school. I love Artificial Intelligence, Data Science, and Programming in any Mathematical context. In my spare time I enjoy writing, biking, and otherwise getting outside.",
+    "aboutme":"I am a Full Stack Developer currently accelerated into graduate school. I love Artificial Intelligence, Mathematical Programming, and Eccentric Problem Solving. In my spare time I enjoy writing, biking, and otherwise getting outside.",
     "address":"Cherry Hill, NJ",
     
     "education":[

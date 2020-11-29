@@ -23,8 +23,7 @@ export default class Header extends Component {
                <h1 className="responsive-headline">M Sarosh Khan</h1>
                <h3> Welcome. I am a Full Stack Developer, Student, Blacksmith, Writer, and Mathematician in training. 
                  I love every discipline from ceramics to theoretical physics. I believe computing science brings with 
-                 it the opportunity to experience and learn about everything.
-                  
+                 it the opportunity to experience and learn about everything. 
                </h3>
                <hr/>
                <ul className="social">
